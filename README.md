@@ -172,13 +172,13 @@ Screenshots are saved in the `screenshots/` folder:
 |------|-------------|
 | `01-registration-form.png` | Registration form page |
 | `02-validation-errors.png` | Validation error messages |
-| `03-success-flash.png` | Flash success message |
-| `04-student-profile.png` | Student profile page with uploaded photo |
-| `05-database-records.png` | MySQL students table records |
-| `06-project-structure.png` | VS Code project file structure |
-| `07-github-repo.png` | GitHub repository page |
-| `08-terminal-output.png` | Terminal showing migration and storage:link |
-| `09-browser-output.png` | Browser showing the running application |
+| `03-successful-registration.png` | Successful registration |
+| `04-flash-message.png` | Flash success message |
+| `05-uploaded-profile-picture.png` | Uploaded profile picture |
+| `06-database-table.png` | MySQL students table records |
+| `07-student-profile.png` | Student profile page |
+| `08-project-structure.png` | VS Code project file structure |
+| `09-github-repo.png` | GitHub repository page |
 
 ---
 
